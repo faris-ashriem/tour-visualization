@@ -3,6 +3,12 @@
 Interactive web application that visualizes live music tours and events on a 3D globe.  
 The system allows users to search for artists, view upcoming events, and explore tour locations using real-time data from the Ticketmaster API.
 
+<p align="center">
+  <a href="deliverables/TourGIF.gif">
+    <img src="deliverables/TourGIF.gif" width="540">
+  </a>
+</p>
+
 ---
 
 # Features
