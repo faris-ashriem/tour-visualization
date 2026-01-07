@@ -14,8 +14,8 @@ The system allows users to search for artists, view upcoming events, and explore
 # Features
 
 - Visualizes concert tours and events on a 3D Cesium globe.
-- Artist-based search using the Ticketmaster Discovery API.
-- Interactive event markers with smooth camera fly-to animations.
+- Artist based search using the Ticketmaster Discovery API.
+- Interactive event markers with smooth camera animations.
 - Overlay widget for browsing and selecting upcoming events.
 - Graceful handling of invalid searches or no results.
 - Clean and responsive UI designed for desktop use.
